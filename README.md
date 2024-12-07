@@ -1,1 +1,1 @@
-Self-made scripts are published here
+Foxxy Town game, scripts, sound effects, and sprite
